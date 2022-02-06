@@ -1,0 +1,190 @@
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.exe
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.deps.json
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.runtimeconfig.json
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.runtimeconfig.dev.json
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.pdb
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\API.xml
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\FirebaseAdmin.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Google.Api.Gax.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Google.Api.Gax.Rest.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Google.Apis.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\IdentityModel.AspNetCore.OAuth2Introspection.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\IdentityServer4.AccessTokenValidation.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.Polly.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.pdb
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.pdb
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.csproj.AssemblyReference.cache
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.AssemblyInfoInputs.cache
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.AssemblyInfo.cs
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.csproj.CoreCompileInputs.cache
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\obj\Debug\netcoreapp3.1\staticwebassets\UPC.APIBusiness.API.StaticWebAssets.Manifest.cache
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.RazorTargetAssemblyInfo.cache
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.csproj.CopyComplete
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.dll
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.pdb
+C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.API\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.genruntimeconfig.cache
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.exe
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.deps.json
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.runtimeconfig.json
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.runtimeconfig.dev.json
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\UPC.APIBusiness.API.pdb
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\API.xml
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\FirebaseAdmin.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Google.Api.Gax.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Google.Api.Gax.Rest.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\IdentityModel.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\IdentityModel.AspNetCore.OAuth2Introspection.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\IdentityServer4.AccessTokenValidation.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Http.Polly.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\NLog.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Polly.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Polly.Extensions.Http.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\System.DirectoryServices.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\System.IO.FileSystem.AccessControl.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.IO.FileSystem.AccessControl.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.pdb
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.pdb
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.csproj.AssemblyReference.cache
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.AssemblyInfoInputs.cache
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.AssemblyInfo.cs
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.csproj.CoreCompileInputs.cache
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.MvcApplicationPartsAssemblyInfo.cs
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.MvcApplicationPartsAssemblyInfo.cache
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\obj\Debug\netcoreapp3.1\staticwebassets\UPC.APIBusiness.API.StaticWebAssets.Manifest.cache
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.RazorTargetAssemblyInfo.cache
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.csproj.CopyComplete
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.pdb
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.API\obj\Debug\netcoreapp3.1\UPC.APIBusiness.API.genruntimeconfig.cache
