@@ -10,6 +10,7 @@ namespace DBEntity
         public string nombreaplicativo { get; set; }
         public string tipouso { get; set; }
         public int codtipoapp { get; set; }
+        public string tipoapp { get; set; }
         public int codproyecto { get; set; }
     }
 }

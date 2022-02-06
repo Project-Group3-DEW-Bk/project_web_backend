@@ -1075,19 +1075,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\soporte\\.nuget\\packages\\": {}
+    "C:\\Users\\g_220\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UPC\\CursosVerano\\DesarrolloWeb\\TFinal\\ProjectDEW_Backend\\UPC.APIBusiness\\UPC.APIBusiness.DBContext\\UPC.APIBusiness.DBContext.csproj",
+      "projectUniqueName": "C:\\Users\\g_220\\OneDrive\\Documents\\UPC\\Ciclo de Verano I\\Desarrollo para Entorno Web\\Trabajo Grupal\\ProyectoDeBackend\\UPC.APIBusiness\\UPC.APIBusiness.DBContext\\UPC.APIBusiness.DBContext.csproj",
       "projectName": "UPC.APIBusiness.DBContext",
-      "projectPath": "D:\\UPC\\CursosVerano\\DesarrolloWeb\\TFinal\\ProjectDEW_Backend\\UPC.APIBusiness\\UPC.APIBusiness.DBContext\\UPC.APIBusiness.DBContext.csproj",
-      "packagesPath": "C:\\Users\\soporte\\.nuget\\packages\\",
-      "outputPath": "D:\\UPC\\CursosVerano\\DesarrolloWeb\\TFinal\\ProjectDEW_Backend\\UPC.APIBusiness\\UPC.APIBusiness.DBContext\\obj\\",
+      "projectPath": "C:\\Users\\g_220\\OneDrive\\Documents\\UPC\\Ciclo de Verano I\\Desarrollo para Entorno Web\\Trabajo Grupal\\ProyectoDeBackend\\UPC.APIBusiness\\UPC.APIBusiness.DBContext\\UPC.APIBusiness.DBContext.csproj",
+      "packagesPath": "C:\\Users\\g_220\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\g_220\\OneDrive\\Documents\\UPC\\Ciclo de Verano I\\Desarrollo para Entorno Web\\Trabajo Grupal\\ProyectoDeBackend\\UPC.APIBusiness\\UPC.APIBusiness.DBContext\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\soporte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\g_220\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1101,8 +1101,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\UPC\\CursosVerano\\DesarrolloWeb\\TFinal\\ProjectDEW_Backend\\UPC.APIBusiness\\UPC.APIBusiness.DBEntity\\UPC.APIBusiness.DBEntity.csproj": {
-              "projectPath": "D:\\UPC\\CursosVerano\\DesarrolloWeb\\TFinal\\ProjectDEW_Backend\\UPC.APIBusiness\\UPC.APIBusiness.DBEntity\\UPC.APIBusiness.DBEntity.csproj"
+            "C:\\Users\\g_220\\OneDrive\\Documents\\UPC\\Ciclo de Verano I\\Desarrollo para Entorno Web\\Trabajo Grupal\\ProyectoDeBackend\\UPC.APIBusiness\\UPC.APIBusiness.DBEntity\\UPC.APIBusiness.DBEntity.csproj": {
+              "projectPath": "C:\\Users\\g_220\\OneDrive\\Documents\\UPC\\Ciclo de Verano I\\Desarrollo para Entorno Web\\Trabajo Grupal\\ProyectoDeBackend\\UPC.APIBusiness\\UPC.APIBusiness.DBEntity\\UPC.APIBusiness.DBEntity.csproj"
             }
           }
         }

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3cb7210e-c87d-4222-8efd-8d81c780ddaf": {
+      "ProjectGuid": "3cb7210e-c87d-4222-8efd-8d81c780ddaf",
+      "DisplayName": "UPC.APIBusiness.DBContext",
+      "ColorIndex": 0
+    },
+    "3e9c5060-8a75-4963-897b-496525ef3f79": {
+      "ProjectGuid": "3e9c5060-8a75-4963-897b-496525ef3f79",
+      "DisplayName": "UPC.APIBusiness.API",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
