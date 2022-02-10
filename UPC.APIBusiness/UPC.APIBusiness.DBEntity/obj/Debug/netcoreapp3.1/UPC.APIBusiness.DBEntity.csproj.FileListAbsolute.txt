@@ -15,4 +15,13 @@ C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno 
 C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.csproj.CoreCompileInputs.cache
 C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.dll
 C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.pdb
-C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.csproj.AssemblyReference.cache
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.DBEntity\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.deps.json
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.DBEntity\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.DBEntity\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.pdb
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.csproj.AssemblyReference.cache
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.GeneratedMSBuildEditorConfig.editorconfig
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.AssemblyInfoInputs.cache
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.AssemblyInfo.cs
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.csproj.CoreCompileInputs.cache
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.dll
+D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.DBEntity\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.pdb

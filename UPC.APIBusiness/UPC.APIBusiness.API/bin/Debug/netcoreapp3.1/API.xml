@@ -76,6 +76,50 @@
             
             </summary>
         </member>
+        <member name="T:API.AplicativoController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:API.AplicativoController._aplicativoRepository">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:API.AplicativoController.#ctor(DBContext.IAplicativoRepository)">
+            <summary>
+            
+            </summary>
+            <param name="aplicativoRepository"></param>
+        </member>
+        <member name="M:API.AplicativoController.GetAplicativos">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:API.EstadoProyectoController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:API.EstadoProyectoController._estadoProyectoRepository">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:API.EstadoProyectoController.#ctor(DBContext.IEstadoProyectoRepository)">
+            <summary>
+            
+            </summary>
+            <param name="estadoProyectoRepository"></param>
+        </member>
+        <member name="M:API.EstadoProyectoController.GetEstadoProyecto">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
         <member name="T:API.ProyectoController">
             <summary>
             
@@ -97,6 +141,69 @@
             
             </summary>
             <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:API.ProyectoController.InsertarProyecto(DBEntity.EntityProyecto)">
+            <summary>
+            
+            </summary>
+            <param name="proyecto"></param>
+            <returns></returns>
+        </member>
+        <member name="T:API.SectorController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:API.SectorController.#ctor(DBContext.ISectorRepository)">
+            <summary>
+            
+            </summary>
+            <param name="sectorRepository"></param>
+        </member>
+        <member name="M:API.SectorController.GetSector">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:API.TipoAppController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:API.TipoAppController.#ctor(DBContext.ITipoAppRepository)">
+            <summary>
+            
+            </summary>
+            <param name="tipoAppRepository"></param>
+        </member>
+        <member name="M:API.TipoAppController.GetTipoApp">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:API.TipoProyectoController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:API.TipoProyectoController._tipoProyectoRepository">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:API.TipoProyectoController.#ctor(DBContext.ITipoProyectoRepository)">
+            <summary>
+            
+            </summary>
+            <param name="tipoProyectoRepository"></param>
+        </member>
+        <member name="M:API.TipoProyectoController.GetTipoProyecto">
+            <summary>
+            
+            </summary>
             <returns></returns>
         </member>
         <member name="T:API.CustomErrorException">

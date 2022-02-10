@@ -9,5 +9,6 @@ namespace DBContext
     {
         EntityBaseResponse GetProyectos();
         EntityBaseResponse GetProyecto(int id);
+        EntityBaseResponse InsertarProyecto(EntityProyecto proyecto);
     }
 }

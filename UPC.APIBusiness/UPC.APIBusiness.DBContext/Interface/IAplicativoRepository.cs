@@ -8,5 +8,7 @@ namespace DBContext
     public interface IAplicativoRepository
     {
         EntityBaseResponse GetAplicativo(int id);
+        EntityBaseResponse GetAplicativos();
+        EntityBaseResponse InsertarAplicativo(EntityAplicativo aplicativo);
     }
 }
