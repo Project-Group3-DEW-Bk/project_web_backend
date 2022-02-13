@@ -8,5 +8,6 @@ namespace DBContext
     public interface IEstadoProyectoRepository
     {
         EntityBaseResponse GetEstadoProyecto();
+        EntityBaseResponse InsertarEstadoProyecto(EntityEstadoProyecto estadoproyecto);
     }
 }

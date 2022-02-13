@@ -11,16 +11,3 @@ C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno 
 C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.csproj.CopyComplete
 C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.dll
 C:\Users\g_220\OneDrive\Documents\UPC\Ciclo de Verano I\Desarrollo para Entorno Web\Trabajo Grupal\ProyectoDeBackend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.pdb
-D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.deps.json
-D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.dll
-D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.pdb
-D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.dll
-D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\bin\Debug\netcoreapp3.1\UPC.APIBusiness.DBEntity.pdb
-D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.csproj.AssemblyReference.cache
-D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.GeneratedMSBuildEditorConfig.editorconfig
-D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.AssemblyInfoInputs.cache
-D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.AssemblyInfo.cs
-D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.csproj.CoreCompileInputs.cache
-D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.csproj.CopyComplete
-D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.dll
-D:\UPC\CursosVerano\DesarrolloWeb\TFinal\ProjectDEW_Backend\UPC.APIBusiness\UPC.APIBusiness.DBContext\obj\Debug\netcoreapp3.1\UPC.APIBusiness.DBContext.pdb

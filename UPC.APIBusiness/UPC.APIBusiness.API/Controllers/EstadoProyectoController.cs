@@ -19,6 +19,7 @@ namespace API
     /// </summary>
     [Produces("application/json")]
     [Route("api/estadoproyecto")]
+    [ApiController]
     public class EstadoProyectoController : Controller
     {
         /// <summary>
@@ -46,6 +47,21 @@ namespace API
         public ActionResult GetEstadoProyecto()
         {
             var ret = _estadoProyectoRepository.GetEstadoProyecto();
+            return Json(ret);
+        }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="estadoproyecto"></param>
+        /// <returns></returns>
+        [Produces("application/json")]
+        [Authorize]
+        [HttpPost]
+        [Route("insert")]
+        public ActionResult InsertarEstadoProyecto(EntityEstadoProyecto estadoproyecto)
+        {
+            var ret = _estadoProyectoRepository.InsertarEstadoProyecto(estadoproyecto);
             return Json(ret);
         }
 

@@ -19,6 +19,7 @@ namespace API
     /// </summary>
     [Produces("application/json")]
     [Route("api/tipoproyecto")]
+    [ApiController]
     public class TipoProyectoController : Controller
     {
         /// <summary>
@@ -46,6 +47,21 @@ namespace API
         public ActionResult GetTipoProyecto()
         {
             var ret = _tipoProyectoRepository.GetTipoProyecto();
+            return Json(ret);
+        }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="tipoproyecto"></param>
+        /// <returns></returns>
+        [Produces("application/json")]
+        [Authorize]
+        [HttpPost]
+        [Route("insert")]
+        public ActionResult InsertarTipoProyecto(EntityTipoProyecto tipoproyecto)
+        {
+            var ret = _tipoProyectoRepository.InsertarTipoProyecto(tipoproyecto);
             return Json(ret);
         }
     }

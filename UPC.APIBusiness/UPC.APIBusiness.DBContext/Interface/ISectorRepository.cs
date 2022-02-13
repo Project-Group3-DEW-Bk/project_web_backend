@@ -8,5 +8,6 @@ namespace DBContext
     public interface ISectorRepository
     {
         EntityBaseResponse GetSector();
+        EntityBaseResponse InsertarSector(EntitySector sector);
     }
 }

@@ -8,5 +8,6 @@ namespace DBContext
     public interface ITipoProyectoRepository
     {
         EntityBaseResponse GetTipoProyecto();
+        EntityBaseResponse InsertarTipoProyecto(EntityTipoProyecto tipoproyecto);
     }
 }

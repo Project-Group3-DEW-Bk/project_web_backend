@@ -128,6 +128,7 @@ namespace API
             services.AddTransient<ISectorRepository, SectorRepository>();
             services.AddTransient<ITipoAppRepository, TipoAppRepository>();
             services.AddTransient<ITipoProyectoRepository, TipoProyectoRepository>();
+            services.AddTransient<IRolUsuarioRepository, RolUsuarioRepository>();
 
             // ----------------------------------------------------------------
             services.AddTransient<HttpClientAuthorizationDelegatingHandler>();

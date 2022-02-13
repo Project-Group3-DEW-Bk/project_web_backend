@@ -19,6 +19,7 @@ namespace API
     /// </summary>
     [Produces("application/json")]
     [Route("api/sector")]
+    [ApiController]
     public class SectorController : Controller
     {
         protected readonly ISectorRepository _sectorRepository;
@@ -45,5 +46,21 @@ namespace API
             var ret = _sectorRepository.GetSector();
             return Json(ret);
         }
+
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="sector"></param>
+        /// <returns></returns>
+        [Produces("application/json")]
+        [Authorize]
+        [HttpPost]
+        [Route("insert")]
+        public ActionResult InsertarSector(EntitySector sector)
+        {
+            var ret = _sectorRepository.InsertarSector(sector);
+            return Json(ret);
+        }
+
     }
 }

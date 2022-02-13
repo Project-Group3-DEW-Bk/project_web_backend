@@ -120,6 +120,13 @@
             </summary>
             <returns></returns>
         </member>
+        <member name="M:API.EstadoProyectoController.InsertarEstadoProyecto(DBEntity.EntityEstadoProyecto)">
+            <summary>
+            
+            </summary>
+            <param name="estadoproyecto"></param>
+            <returns></returns>
+        </member>
         <member name="T:API.ProyectoController">
             <summary>
             
@@ -150,6 +157,30 @@
             <param name="proyecto"></param>
             <returns></returns>
         </member>
+        <member name="T:API.RolUsuarioController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:API.RolUsuarioController.#ctor(DBContext.IRolUsuarioRepository)">
+            <summary>
+            
+            </summary>
+            <param name="rolusuarioRepository"></param>
+        </member>
+        <member name="M:API.RolUsuarioController.GetRolUsuario">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:API.RolUsuarioController.InsertarRolUsuario(DBEntity.EntityRolUsuario)">
+            <summary>
+            
+            </summary>
+            <param name="rolusuario"></param>
+            <returns></returns>
+        </member>
         <member name="T:API.SectorController">
             <summary>
             
@@ -165,6 +196,13 @@
             <summary>
             
             </summary>
+            <returns></returns>
+        </member>
+        <member name="M:API.SectorController.InsertarSector(DBEntity.EntitySector)">
+            <summary>
+            
+            </summary>
+            <param name="sector"></param>
             <returns></returns>
         </member>
         <member name="T:API.TipoAppController">
@@ -204,6 +242,13 @@
             <summary>
             
             </summary>
+            <returns></returns>
+        </member>
+        <member name="M:API.TipoProyectoController.InsertarTipoProyecto(DBEntity.EntityTipoProyecto)">
+            <summary>
+            
+            </summary>
+            <param name="tipoproyecto"></param>
             <returns></returns>
         </member>
         <member name="T:API.CustomErrorException">
@@ -363,6 +408,42 @@
             <param name="cancellationToken"></param>
             <returns></returns>
         </member>
+        <member name="T:API.Security.AccessToken">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:API.Security.AccessToken.access_token">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:API.Security.AccessToken.token_type">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:API.Security.AccessToken.scope">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:API.Security.AccessToken.expires_in">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:API.Security.Authentication">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:API.Security.Authentication.GenerateToken(System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
         <member name="T:API.Startup">
             <summary>
             /
@@ -408,46 +489,18 @@
             </summary>
             <param name="UserRepository"></param>
         </member>
-        <member name="M:UPC.Business.API.Controllers.UserController.Get">
+        <member name="M:UPC.Business.API.Controllers.UserController.Login(DBEntity.EntityLogin)">
             <summary>
-            GetListUser
+            
             </summary>
+            <param name="login"></param>
             <returns></returns>
         </member>
-        <member name="T:UPC.E31A.APIBusiness.API.Security.AccessToken">
+        <member name="M:UPC.Business.API.Controllers.UserController.Insert(DBEntity.EntityUser)">
             <summary>
             
             </summary>
-        </member>
-        <member name="P:UPC.E31A.APIBusiness.API.Security.AccessToken.access_token">
-            <summary>
-            
-            </summary>
-        </member>
-        <member name="P:UPC.E31A.APIBusiness.API.Security.AccessToken.token_type">
-            <summary>
-            
-            </summary>
-        </member>
-        <member name="P:UPC.E31A.APIBusiness.API.Security.AccessToken.scope">
-            <summary>
-            
-            </summary>
-        </member>
-        <member name="P:UPC.E31A.APIBusiness.API.Security.AccessToken.expires_in">
-            <summary>
-            
-            </summary>
-        </member>
-        <member name="T:UPC.E31A.APIBusiness.API.Security.Authentication">
-            <summary>
-            
-            </summary>
-        </member>
-        <member name="M:UPC.E31A.APIBusiness.API.Security.Authentication.GenerateToken(System.String,System.String)">
-            <summary>
-            
-            </summary>
+            <param name="user"></param>
             <returns></returns>
         </member>
     </members>
